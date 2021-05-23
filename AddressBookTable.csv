@@ -1,0 +1,7 @@
+FirstName,LastName,Address,City,State,ZipCode,PhoneNumber,EmailId,AddressBookName,AddressBookType
+Ritik,Chauhan,Janakpuri,Delhi,Delhi,110020,6698787656,ritikvar.gnail.com,AddressBook1,Friends
+Seema,Rawat,"New gali",Bangalore,Karnataka,878767,8767654356,seema@yahoo.com,AddressBook2,Family
+Jay,Yadav,"Sec 62",Noida,"Uttar Pradesh",202389,8768787656,jay.yadav09@gmail.com,AddressBook2,Profession
+Naman,Varshney,"Ansal Plaza",Aligarh,"Uttar Pradesh",290880,8987687656,varshney@gmail.com,AddressBook2,Profession
+Anushka,Dhadheech,Kothrud,Pune,Maharashtra,400138,9890878512,anushka05@gmail.com,AddressBook1,Family
+Himanshu,Kaushik,"Model Town",Delhi,Delhi,110018,9898787656,kaushik@gmail.com,AddressBook2,Friends
